@@ -53,7 +53,7 @@ npm start
     <p>Users can view their bookings on the home screen, with options to edit or delete any booking.</p>
     <h2 id="features">Features</h2>
     <ul>
-        <li><strong>User Authentication</strong>: Secure login system.</li>
+        <li><strong>Login</strong>: login system.</li>
         <li><strong>Booking Management</strong>: Book, view, edit, and delete sauna sessions.</li>
         <li><strong>Responsive Design</strong>: The application is responsive and works well on various devices.</li>
         <li><strong>Data Storage</strong>: All data is stored in a MongoDB database.</li>
@@ -71,6 +71,6 @@ npm start
     <h2 id="license">License</h2>
     <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
     <h2 id="contact">Contact</h2>
-    <p>For any questions or feedback, please reach out to us at <a href="mailto:your-email@example.com">your-email@example.com</a>.</p>
+    <p>For any questions or feedback, please reach out to us at <a href="mailto:sulochanbarakoti09@gmail.com">sulochanbarakoti09@gmail.com</a>.</p>
 </body>
 </html>
